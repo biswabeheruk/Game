@@ -1,0 +1,100 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   25.21.14.1683
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lenovo\Desktop\Games for event\Games\Games\color switch\New folder\color switch final_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.355768 ms
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.808959 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.269084 ms (FindLiveObjects: 0.044942 ms CreateObjectMapping: 0.047217 ms MarkObjects: 0.167253 ms  DeleteObjects: 0.009102 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.804977 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.237795 ms (FindLiveObjects: 0.042097 ms CreateObjectMapping: 0.042097 ms MarkObjects: 0.144497 ms  DeleteObjects: 0.009102 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.827164 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.246328 ms (FindLiveObjects: 0.042666 ms CreateObjectMapping: 0.038115 ms MarkObjects: 0.154737 ms  DeleteObjects: 0.009102 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440888 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.157582 ms (FindLiveObjects: 0.037546 ms CreateObjectMapping: 0.019911 ms MarkObjects: 0.093297 ms  DeleteObjects: 0.005688 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.828870 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.238933 ms (FindLiveObjects: 0.045511 ms CreateObjectMapping: 0.038684 ms MarkObjects: 0.145066 ms  DeleteObjects: 0.008533 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.384106 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.234951 ms (FindLiveObjects: 0.039253 ms CreateObjectMapping: 0.034702 ms MarkObjects: 0.149048 ms  DeleteObjects: 0.010239 ms)
+
+GAME OVER!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.856177 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.269084 ms (FindLiveObjects: 0.046079 ms CreateObjectMapping: 0.039822 ms MarkObjects: 0.170097 ms  DeleteObjects: 0.010808 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1510 -> priority: 1 
+  Thread -> id: 1cd4 -> priority: 1 
+  Thread -> id: 1c8c -> priority: 1 
+  Thread -> id: 1cfc -> priority: 1 
